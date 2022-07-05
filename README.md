@@ -1,4 +1,4 @@
-# Pokemon-Image-Classification-and-Segmentation-Deep-Learning
+# Pokemon Image Classification and Segmentation Deep Learning
 
 Created a deep neural networks for image classification and segmentation of Pokémons.
 
